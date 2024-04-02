@@ -1,1 +1,2 @@
-console.log('Javascript is working');
+import * as THREE from 'three'
+console.log(THREE)
